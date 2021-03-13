@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="reb_appbar">#A10019</color>
+    <color name="text_color_black_normal">#333333</color>
+    <color name="text_color_grey">#777777</color>
+    <color name="text_color_blue">#1CB540</color>
+    <color name="text_color_red">#D83030</color>
+    <color name="text_color_yellow">#F2D400</color>
+    <color name="text_color_gray">#AFB3BF</color>
+    <color name="silver">#cfd2d6</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

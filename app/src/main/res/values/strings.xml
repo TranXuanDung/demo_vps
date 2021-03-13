@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Demo VPS</string>
+    <string name="home">Trang chủ</string>
+    <string name="stock">Chứng khoán</string>
+    <string name="call">Cuộc gọi</string>
+    <string name="finance">SP tài chính</string>
+    <string name="asset">Tài sản</string>
+    <string name="wellcome">Xin chào,</string>
+    <string name="net_assets">Tài sản ròng</string>
+    <string name="content_net_assets">*************</string>
+    <string name="shares">Cổ phiếu</string>
+    <string name="derivative">Phát sinh</string>
+    <string name="mm">MM</string>
+    <string name="bonds">Trái phiếu</string>
+    <string name="pay">Thanh toán</string>
+    <string name="insurrance">Bảo hiểm</string>
+    <string name="money_transactions">Giao dịch tiền</string>
+    <string name="see_more">Xem thêm</string>
+    <string name="net_asset_information">Thông tin tài sản ròng</string>
+    <string name="done">Xong</string>
+    <string name="product">Sản phẩm</string>
+    <string name="outstanding_function">Chức năng nổi bật</string>
+    <string name="all">Tất cả</string>
+    <string name="register_service">Đăng ký dịch vụ</string>
+
+</resources>

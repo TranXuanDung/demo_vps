@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307730590108",
+    "firebase_url": "https://base-mvvm-50f9c.firebaseio.com",
+    "project_id": "base-mvvm-50f9c",
+    "storage_bucket": "base-mvvm-50f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307730590108:android:95312a71fecd8365808059",
+        "android_client_info": {
+          "package_name": "com.dungtx.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307730590108-rjg7avmkvd3lp37n8l167an4a86a567f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJkAqIFP0J5EQ4fXUu686oWVxvy5R6kZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307730590108-rjg7avmkvd3lp37n8l167an4a86a567f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
