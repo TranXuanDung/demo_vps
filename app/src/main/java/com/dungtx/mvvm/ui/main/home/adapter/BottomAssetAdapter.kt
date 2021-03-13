@@ -1,4 +1,4 @@
-package com.dungtx.mvvm.ui.main.home
+package com.dungtx.mvvm.ui.main.home.adapter
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater

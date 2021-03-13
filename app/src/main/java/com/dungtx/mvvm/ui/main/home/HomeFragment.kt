@@ -21,6 +21,7 @@ import com.dungtx.mvvm.databinding.BottomSheetProductBinding
 import com.dungtx.mvvm.databinding.FragmentHomeBinding
 import com.dungtx.mvvm.ui.base.fragment.BaseFragment
 import com.dungtx.mvvm.ui.customview.widget.CircularViewPagerHandler
+import com.dungtx.mvvm.ui.main.home.adapter.*
 import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialog
 import io.reactivex.Observable

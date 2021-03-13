@@ -1,4 +1,4 @@
-package com.dungtx.mvvm.ui.main.home
+package com.dungtx.mvvm.ui.main.home.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -24,7 +24,7 @@ class RegisterServiceAdapter : RecyclerView.Adapter<RegisterServiceAdapter.Compa
 
     override fun getItemCount() = itemRegisterService.size
 
-    override fun onBindViewHolder(holder:RegisterServiceViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: RegisterServiceViewHolder, position: Int) {
         val data = itemRegisterService[position]
         data.image?.let {
             holder.binding.ivRegisterService.setImageResource(data.image!!)
